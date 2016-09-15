@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <GridLayout
+                android:id="@+id/checkTopGrid"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:columnCount="7"
+                tools:context="manor9421.com.a15game.CheckTopActivity">
+                <TextView
+                    android:id="@+id/numTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/num_column"/>
+                <TextView
+                    android:id="@+id/movesTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/moves_column"/>
+                <TextView
+                    android:id="@+id/secTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/sec_column"/>
+                <TextView
+                    android:id="@+id/numsTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/nums_column"/>
+                <TextView
+                    android:id="@+id/rowsTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/rows_column"/>
+                <TextView
+                    android:id="@+id/colsTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/cols_column"/>
+                <TextView
+                    android:id="@+id/dateTV"
+                    style="@style/CheckTopTV"
+                    android:text="@string/date_column"/>
+
+            </GridLayout>
+
+        </RelativeLayout>
+    </HorizontalScrollView>
+</ScrollView>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="manor9421.com.a15game.FirstMenuActivity">
+
+    <item
+        android:id="@+id/action_new_game"
+        android:icon="@drawable/ic_action_play"
+        android:title="New Game"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+        <!--android:icon=""-->
+
+</menu>

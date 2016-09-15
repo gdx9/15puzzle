@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#351504</color>
+    <color name="colorPrimaryDark">#ee130802</color>
+
+    <color name="colorAccent">#efdd65</color>
+
+    <color name="black_40">#40000000</color>
+    <color name="black_20">#20000000</color>
+    <color name="black_60">#70000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="windowsBackground">#3b240c</color>
+    <color name="brownTransp">#cd3b240c</color>
+    <color name="lightColor">#e0f1e8df</color>
+    <color name="lightTranspColor">#44f1e8df</color>
+    <color name="lightBlue">#3a8cc2</color>
+    <color name="green">#21ae43</color>
+    <color name="congratsText">#e0f1e8df</color>
+    <color name="numPicker">#f7f1e8df</color>
+    <color name="numPickerText">#e0f1e8df</color>
+
+</resources>

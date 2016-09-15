@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">15 puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_button">Start</string>
+    <string name="check_top_button">Check Top</string>
+    <string name="settings_button">Settings</string>
+    <string name="add_nums_text">Add Numbers</string>
+    <string name="manage_images_button">Manage Images</string>
+    <string name="default_rows_num_text">Rows:</string>
+    <string name="default_cols_num_text">Columns:</string>
+
+    <string name="num_column">№</string>
+    <string name="moves_column">Moves"</string>
+    <string name="sec_column">Sec</string>
+    <string name="nums_column">Nums</string>
+    <string name="rows_column">Rows</string>
+    <string name="cols_column">Cols</string>
+    <string name="date_column">Date</string>
+
+
+    <string name="thanks">Thanks for using my app</string>
+    <string name="rate_string">You can rate it in Play Store: </string>
+    <string name="play_store_string">Play Store</string>
+    <string name="contact_string">Contact developer with e-mail: </string>
+    <string name="dev_email">manor9421@yahoo.co.jp</string>
+
+    <string name="refresh_button_string">Refresh</string>
+
+
+
+    <string name="congrats_moves_string">Moves: </string>
+    <string name="congrats_time_string">Time: </string>
+    <string name="congrats_use_numbers_string">Use numbers: </string>
+    <string name="add_image_string">Add Image</string>
+    <string name="settings_dialog_title">Settings</string>
+    <string name="settings_cancel_button">Cancel</string>
+    <string name="settings_ok_button">OK</string>
+
+</resources>
